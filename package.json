@@ -1,0 +1,15 @@
+{
+  "name": "three-template",
+  "version": "1.0.0",
+  "description": "Simple three.js server template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MAYEUL LE MONIES DE SAGAZAN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
